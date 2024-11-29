@@ -1,0 +1,7 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ...
+[warn] Attempt 1 failed: lmcoursier.internal.shaded.coursier.error.ResolutionError$CantDownloadModule: Error downloading com.vladsch.flexmark:flexmark-ext-gfm-strikethrough:0.62.2
+[warn]   Not found
+[warn]   Not found
+[warn]   not found: C:\Users\utpl\.ivy2\localcom.vladsch.flexmark\flexmark-ext-gfm-strikethrough\0.62.2\ivys\ivy.xml
+[warn]   download error: Caught java.net.ConnectException (Connection timed out: connect) while downloading https://repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-strikethrough/0.62.2/flexmark-ext-gfm-strikethrough-0.62.2.pom
